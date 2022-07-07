@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PingOne.Core", "pingone-netcore-sdk\PingOne.Core\PingOne.Core.csproj", "{DEABF18D-77FD-487A-8292-A5039596C91B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PingOne.Web", "PingOne.Web\PingOne.Web.csproj", "{0ECF1568-E4E8-4251-BC5D-FB66FEA73B40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEABF18D-77FD-487A-8292-A5039596C91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEABF18D-77FD-487A-8292-A5039596C91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEABF18D-77FD-487A-8292-A5039596C91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEABF18D-77FD-487A-8292-A5039596C91B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECF1568-E4E8-4251-BC5D-FB66FEA73B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECF1568-E4E8-4251-BC5D-FB66FEA73B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECF1568-E4E8-4251-BC5D-FB66FEA73B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECF1568-E4E8-4251-BC5D-FB66FEA73B40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3371693E-8B1B-4E04-B37A-43BC2C0B5F31}
+	EndGlobalSection
+EndGlobal
